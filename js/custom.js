@@ -1,5 +1,5 @@
-$(function () {
-    $("#navbar").sticky({
-        zIndex: 2
-    });
+$(function(){
+  $("#navbar").sticky({
+    zIndex: 2
+  });
 });
